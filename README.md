@@ -625,9 +625,9 @@ Read how to do it:
 
 ## General errors
 
-- Delete **"artifacts"** and **"cache"** folder and run the command again.
 - Check level indications to see if you **set the parameters right** for your instance.
 - **Did you save** after changing address to your instance?
+- Delete **"artifacts"** and **"cache"** folder and **run the command again**.
 
 ## "nonce too low" / Pending transaction stuck:
 
