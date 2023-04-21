@@ -4,7 +4,7 @@ Suite to solve [Ethernaut](https://ethernaut.openzeppelin.com/) challenges.
 
 **Prior to using this Ethernaut solving suite:**
 
-1. Create and fill a **.env** file with the data specified in **.env.example**
+1. Create and fill a **.env** file with the data specified in **.env.example** on the root folder
 2. Run `yarn` on this folder.
 
 - If you wanna skip Etherscan verifications, don't fill out the ETHERSCAN_API_KEY variable.
